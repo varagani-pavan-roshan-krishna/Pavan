@@ -1,0 +1,51 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   365days.html
+#	new file:   38878920-BA73-4573-B5A6-FE7C68AD126D_1_201_a.heic
+#	new file:   about.html
+#	new file:   activation.pbm
+#	new file:   ai.html
+#	new file:   aiimage1.webp
+#	new file:   aiimage2.png
+#	new file:   backprop.webp
+#	new file:   bioneuron.png
+#	new file:   chatgpt.jpeg
+#	new file:   code.jpeg
+#	new file:   code1.jpg
+#	new file:   codechef.png
+#	new file:   codeforces.png
+#	new file:   coding2.jpg
+#	new file:   contact.html
+#	new file:   developer.png
+#	new file:   education.html
+#	new file:   firstcoding.jpg
+#	new file:   forwardprop.jpeg
+#	new file:   gfg.png
+#	new file:   gradientdescent.png
+#	new file:   home.jpeg
+#	new file:   index.html
+#	new file:   leetcode.png
+#	new file:   namaste.png
+#	new file:   neuralnetwork.html
+#	new file:   neuralnetwork.png
+#	new file:   pandas.jpeg
+#	new file:   pavan.jpeg
+#	new file:   python.jpeg
+#	new file:   skills.html
+#	new file:   third.jpeg
+#	new file:   vishnu.css
+#	new file:   vishnu.jpeg
+#	new file:   vishnu.js
+#	new file:   vishnu3.jpeg
+#	new file:   vishnu4.jpeg
+#	new file:   vishnu5.jpeg
+#	new file:   vishnu6.jpeg
+#
